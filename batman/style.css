@@ -129,6 +129,8 @@ body{
 .img_capitao {
     height: 400px;
     width: 450px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
 }
 .img_hulk {
     height: 400px;
